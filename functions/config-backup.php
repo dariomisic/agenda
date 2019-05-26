@@ -1,0 +1,1 @@
+<?php define("SITE_PATH", "das"); $server="localhost:3306"; $database="kubed"; $website_title="dasdasd"; $user="root"; $pass="root"; ?>

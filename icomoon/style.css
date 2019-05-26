@@ -1,0 +1,141 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-hlty1r');
+	src:url('fonts/icomoon.eot?#iefix-hlty1r') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-hlty1r') format('woff'),
+		url('fonts/icomoon.ttf?-hlty1r') format('truetype'),
+		url('fonts/icomoon.svg?-hlty1r#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-adult4:before {
+	content: "\e600";
+}
+
+.icon-avatar2:before {
+	content: "\e601";
+}
+
+.icon-bald36:before {
+	content: "\e602";
+}
+
+.icon-child11:before {
+	content: "\e603";
+}
+
+.icon-curly2:before {
+	content: "\e604";
+}
+
+.icon-female223:before {
+	content: "\e605";
+}
+
+.icon-female224:before {
+	content: "\e606";
+}
+
+.icon-male227:before {
+	content: "\e607";
+}
+
+.icon-male228:before {
+	content: "\e608";
+}
+
+.icon-male229:before {
+	content: "\e609";
+}
+
+.icon-male230:before {
+	content: "\e60a";
+}
+
+.icon-man416:before {
+	content: "\e60b";
+}
+
+.icon-man418:before {
+	content: "\e60c";
+}
+
+.icon-man420:before {
+	content: "\e60d";
+}
+
+.icon-man422:before {
+	content: "\e60e";
+}
+
+.icon-man424:before {
+	content: "\e60f";
+}
+
+.icon-man425:before {
+	content: "\e610";
+}
+
+.icon-nerd8:before {
+	content: "\e611";
+}
+
+.icon-nerd9:before {
+	content: "\e612";
+}
+
+.icon-personal27:before {
+	content: "\e613";
+}
+
+.icon-profiles:before {
+	content: "\e614";
+}
+
+.icon-smiling43:before {
+	content: "\e615";
+}
+
+.icon-student61:before {
+	content: "\e616";
+}
+
+.icon-woman103:before {
+	content: "\e617";
+}
+
+.icon-woman104:before {
+	content: "\e618";
+}
+
+.icon-woman105:before {
+	content: "\e619";
+}
+
+.icon-young19:before {
+	content: "\e61a";
+}
+
+.icon-young20:before {
+	content: "\e61b";
+}
+
+.icon-young21:before {
+	content: "\e61c";
+}
+
